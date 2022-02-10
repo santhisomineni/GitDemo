@@ -1,2 +1,6 @@
 testing
+<<<<<<< HEAD
 i am testing this git
+=======
+deepthi changed
+>>>>>>> 33e215f16002fba3e4c59e62e54098b75e86ea33
